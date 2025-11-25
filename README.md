@@ -2,9 +2,11 @@
 This is a Repository dedicated to my hands on experience with Cybersecurity.
 
 About Me:
+
 I am an almost graduate student at the SANS Instituite where I have obtained 8 GIAC Certifications and working on my 9th, and will be getting my Bachelors in Applied Cybersecurity. My intrest in Cybersecurity started from my dad who has worked in the industry for 15+ years. He mentioned the SANS Instituite to me in my third year of college when I had switched majors 3 times and gone to 2 different Colleges but wasn't enjoying any of the work I was doing. I looked into SANS and instantly wanted to get into the field. I withdrew from my current college and applied to SANS. Unfortunetly I did not get excepted the first time because I did poorly on the aptitude test. I was however, offered to try a course and GIAC certification being the GFACT(Foundational Cybersecurity Technologies) which was when I knew Cybersecurity is what I love. I passed the GFACT certiication exam and re applied to the SANS BACS program, passed the aptitude test, and since then have been developing my Cybersecurity knowledge geared toward penetration testing and have loved every second of it. 
 
 National Cyber League (NCL) Experience:
+
 Recently I competed in the NCL which has been a very imporant part of my cybersecurity journey. It strengthened my techincal skills, sharpened my problem-solving mindset, and showd me how real-world cyberseucrity defense and attack challenges feel under pressure. Competeting individually and with a team gave me hands-on exposure to forensics, traffic analysis, cryptography, web vulnerabilites, open-source intel, and more. 
 
 I was especially drawn to Network Traffic analysis, web exploitation, password cracking, scanning and recon, and enumeration and exploitation which all has aligned with my GIAC studies and career goals as a penetration tester.
