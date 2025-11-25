@@ -19,10 +19,10 @@ NCL Performance Highlights:
 | **High Completion**  | OSINT, Scanning and Recon, Network Analyis, Log Analysis | Individually I nearly finished these topics     |
 
 NCL Individual Scouting Report
-[NCL_Individual_Scouting_Report.pdf](./NCL_Individual_Scouting_Report.pdf/NCL_Individual_Scouting_Report.pdf)
+[NCL_Individual_Scouting_Report.pdf](./NCL_Individual_Scouting_Report.pdf)
 
 NCL Team Scouting Report
-[NCL_Team_Scouting_Report.pdf](./NCL_Team_Scouting_Report.pdf/NCL_Team_Scouting_Report.pdf)
+[NCL_Team_Scouting_Report.pdf](./NCL_Team_Scouting_Report.pdf)
 
 What I learned:
 
