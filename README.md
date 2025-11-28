@@ -35,6 +35,33 @@ During my NCL competitions, I built proficiency across several investigative and
 
 These skills directly reinforced my GCIA, GPEN, and GWAPT-level training, and helped me apply tools like Wireshark, Burp Suite, Autopsy, Hashcat, Python scipting, John The Ripper, Nmap, Dig, SQLmap, and more in real-world contexts
 
+## 🧪 Hands-On Security Projects & Analysis
+
+| Project | Description | Skills Demonstrated |
+|--------|-------------|---------------------|
+| **Attack Observation 2** | Successful SSH compromise, malware deployment attempt (Dota3 botnet) | Threat analysis, malware execution, SSH exploitation, MITRE mapping |
+| **Attack Observation 3** | High-volume exploit campaign targeting CVE-2023-34133 and CVE-2022-26134 | Web exploitation, SQLi, OGNL injection, log analysis, IOC extraction |
+| **Attack Observation 4** | Web shell probing and PHPUnit RCE targeting Androxgh0st botnet | Vulnerability research, exploitation analysis, automated scanner behavior |
+| **Honeypot Engineering** | Full setup of Cowrie & DShield honeypot with DMZ segmentation | Network security, firewall rules, traffic logging, infrastructure hardening |
+
+View full reports with PDFs here:  
+**[`/Reports`](./Reports)**
+
+---
+
+### Upcoming Portfolio Additions (Work In Progress)
+- Hack The Box machine exploitation reports
+- Web App Pen Testing: SQLi, LFI/RFI, auth bypass, JWT tampering
+- Cryptography problem solving (AES, RSA, payload decoding)
+- API and cloud attack surfaces (Mapbox work)
+- Reverse engineering & malware unpacking
+
+---
+
+### Connect With Me
+🔗 LinkedIn:  www.linkedin.com/in/mitchell-patton22
+💼 Open to opportunities in **Offensive Security | Pentesting | Threat Research**
+
 Future Goals:
 - Expanding this repo as I compete in future NCL seasons and Hack The Box Labs
 - Starting my bug bounty journey with HackerOne and Bugcrowd
